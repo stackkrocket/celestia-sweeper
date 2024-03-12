@@ -24,7 +24,7 @@ async function main() {
     console.log('\n/////// BALANCE ///////\n')
     await printBalances(walletItems, true, true)
     await sleep(1_000, false)
-    console.log('\nwith love by @cyberomanov.\n')
+    console.log('\nwith loveeee....\n')
 }
 
 await main()
